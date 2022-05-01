@@ -2,7 +2,7 @@
 
 
 - 🔭 Today I work with full-stack
-- 🌱 Studying Typescript and Next.js
+- 🌱 Studying Typescript and Node.js
 - 📫 Contact: gabriel.lopes.nasci@hotmail.com
 
 <div align="center">
