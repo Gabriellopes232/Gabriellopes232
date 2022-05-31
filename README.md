@@ -23,7 +23,8 @@
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />-
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-<img align="right" alt="programming gif" height="150" width="200" src="assets/proggif.gif"/>
+<img align="right" alt="programming gif" height="150" width="200" src="assets/![deku-mha](https://user-images.githubusercontent.com/74881862/171236714-69d3dbfc-1998-40fa-a9c3-bff89be8d6e7.gif)
+proggif.gif"/>
   
   <a href="https://instagram.com/gabriellopesxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriellopes232/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
