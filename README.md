@@ -9,7 +9,6 @@
   <a href="https://github.com/Gabriellopes232">
 </div>
 <div style="display: inline_block"><br>
-![deku-mha](https://user-images.githubusercontent.com/74881862/171237127-66b2824b-d72e-4530-87a5-cf8c3fe306d3.gif)  
   
 - 👨‍💻 Skills
   
