@@ -3,7 +3,7 @@
 
 - 🔭 Today I work with full-stack
 - 🌱 Studying Typescript and Node.js
-- 📫 Contact: gabriel.lopes.nasci@hotmail.com
+- 📫 Contact: gabriel.lopes.nascimento.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gabriellopes232">
