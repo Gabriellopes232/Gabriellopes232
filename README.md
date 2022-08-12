@@ -5,6 +5,11 @@
 - 🌱 Studying Typescript and Node.js
 - 📫 Contact: gabriel.lopes.nascimento.dev@gmail.com
 
+### About me
+
+I seek to be an open source contributor in the area of the backend in Nodejs/Go
+and working with microservices and cloud infrastructure I put all my experiments here
+
 <div align="center">
   <a href="https://github.com/Gabriellopes232">
 </div>
