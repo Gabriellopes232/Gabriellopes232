@@ -6,7 +6,7 @@
 
 ### About me
 
-- I seek to be an open source contributor in the area of the backend in Nodejs/Go
+- I seek to be an open source contributor in the area of the fullstack in React/Nodejs/Go
 and working with microservices and cloud infrastructure I put all my experiments here
 
 <div align="center">
