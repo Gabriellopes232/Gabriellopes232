@@ -9,7 +9,6 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
 <p>Enthusiastic frontend developer since 2021 using ReactJS. Inspired by Scrum and Agile. I seek to evolve to contribute to open source projects to improve accessibility and performance.</p>
 <br />
 
