@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/gabridev"><img src="https://api.daily.dev/devcards/718142ba34294f7da5ce96892b78d96e.png?r=8zv" width="400" alt="Gabriel Lopes's Dev Card"/></a>
 <p>
   <h1 align="center"><b>Hi there, I'm Gabriel <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
