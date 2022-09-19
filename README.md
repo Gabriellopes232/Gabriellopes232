@@ -29,6 +29,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
+<a href="https://app.daily.dev/gabridev"><img src="https://api.daily.dev/devcards/718142ba34294f7da5ce96892b78d96e.png?r=3fk" width="400" alt="Gabriel Lopes's Dev Card"/></a>
 <br />
 
 ---
