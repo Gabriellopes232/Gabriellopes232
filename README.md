@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p>Enthusiastic fullstack developer since 2020 using ReactJS and NodeJS. Inspired by Scrum and Agile. I seek to evolve to contribute to open source projects to improve accessibility and performance.</p>
+<p>Enthusiastic web developer since 2020 using ReactJS and NodeJS. Inspired by Scrum and Agile. I seek to evolve to contribute to open source projects to improve accessibility and performance.</p>
 <br />
 
 <p>
