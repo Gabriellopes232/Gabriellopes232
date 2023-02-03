@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Gabriel <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Gabriel Lopes</h1>
 </p>
 <p align="center">
 <a href="https://www.gablopes.me/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
@@ -31,9 +31,4 @@
 <a href="https://docs.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/></a>
    </p>
 <br />
-
----
-
----
-
 <br />
